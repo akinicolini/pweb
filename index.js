@@ -4,7 +4,7 @@ const productos = [
   {
     id: 1,
     name: "Sillón Moderno",
-    price: 9799.99,
+    price: 97999.99,
     image:
       "/images/sillon-moderno.jpg",
   },
@@ -14,7 +14,7 @@ const productos = [
   { 
     id: 2, 
     name: "Sillón Relax", 
-    price: 8299.99,
+    price: 82999.99,
     image: 
       "/images/sillon-relax.jpg",
   },
@@ -22,7 +22,7 @@ const productos = [
   {
     id: 3,
     name: "Sillón Elegante",
-    price: 93899.99,
+    price: 93999.99,
     image: "/images/sillon-elegante.jpg",
   },
 
@@ -30,7 +30,7 @@ const productos = [
   {
     id: 4,
     name: "Sillón Clasico", 
-    price: 100899.99,
+    price: 100999.99,
     image: "/images/sillon-clasico.jpg",
   },
 
