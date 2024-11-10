@@ -179,8 +179,9 @@ h2 {
   transition: opacity 0.3s ease;
   text-decoration: none;
   display: inline-block;
-  width: 100%; 
-  text-align: center; 
+  max-width: 90%; 
+  text-align: center;
+  margin: 0 auto;
 }
 
 .boton-primario:hover {
